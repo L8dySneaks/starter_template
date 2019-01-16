@@ -1,0 +1,22 @@
+{
+  "name": "starter_template",
+  "version": "1.0.0",
+  "description": "This is a basic gulp template to start projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L8dySneaks/starter_template.git"
+  },
+  "author": "Steph Symosko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L8dySneaks/starter_template/issues"
+  },
+  "homepage": "https://github.com/L8dySneaks/starter_template#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
