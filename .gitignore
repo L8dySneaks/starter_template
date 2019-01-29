@@ -1,2 +1,5 @@
 # Ignore Mac DS_Store files
 .DS_Store
+
+#Do not load all node module files to git
+/node_modules
